@@ -1,5 +1,11 @@
 # Table of contents
 
-* [还在探索](README.md)
-* [应景](ying-jing.md)
+* [前言](README.md)
+
+## study
+
+## life
+
+* [应景](life/ying-jing.md)
+* [探索](life/tan-suo.md)
 
