@@ -8,5 +8,4 @@
 
 * [探索](life/tan-suo.md)
 * [应景](life/ying-jing.md)
-* [Untitled](life/untitled.md)
 
