@@ -4,6 +4,10 @@
 
 ## study
 
+---
+
+* [如何写好文档](ru-he-xie-hao-wen-dang.md)
+
 ## share with you <a id="life"></a>
 
 * [探索](life/tan-suo.md)
