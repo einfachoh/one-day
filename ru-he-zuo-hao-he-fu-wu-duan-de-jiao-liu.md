@@ -44,7 +44,9 @@ IES架构、推荐、策略数值、各类中台
 
 ![&#x5B8C;&#x6574;&#x6D41;&#x7A0B;](.gitbook/assets/image.png)
 
+一些环境
 
+![&#x751F;&#x4EA7;&#x73AF;&#x5883;&#x3001;BOE&#x4E0E;PPE&#x533A;&#x522B;](.gitbook/assets/image%20%281%29.png)
 
 
 
