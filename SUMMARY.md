@@ -10,6 +10,7 @@
 
 ## share with you <a id="life"></a>
 
+* [Buffer](life/buffer.md)
 * [词不达意](life/ci-bu-da-yi.md)
 * [没有主题的碎片](life/mei-you-zhu-ti-de-sui-pian.md)
 * [平凡的一天](life/ping-fan-de-yi-tian.md)
