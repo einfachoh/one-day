@@ -8,7 +8,7 @@ description: 2021.7.31 23：00
 
 ## 交互过程
 
-![&#x4E00;&#x4E2A;&#x7B80;&#x5355;&#x7684;&#x793A;&#x610F;&#x56FE;](.gitbook/assets/fu-wu-duan-.png)
+![&#x4E00;&#x4E2A;&#x7B80;&#x5355;&#x7684;&#x793A;&#x610F;&#x56FE;](../.gitbook/assets/fu-wu-duan-.png)
 
 总结：客户端首先必须得对用户有感知，服务端才能跟他进行交互。这就联想到多年前一个产品提了一个需求-手机屏保的背景根据手机壳的颜色进行自动更换。这显然用户的操作行为无法感知，除非有个传感器能把这个手机壳传给客户端。
 
@@ -40,13 +40,13 @@ IES架构、推荐、策略数值、各类中台
 
 ## 服务端工作流程
 
-![&#x4E09;&#x5C42;&#x5DE5;&#x4F5C;&#x6D41;](.gitbook/assets/fu-wu-duan-2.png)
+![&#x4E09;&#x5C42;&#x5DE5;&#x4F5C;&#x6D41;](../.gitbook/assets/fu-wu-duan-2.png)
 
-![&#x5B8C;&#x6574;&#x6D41;&#x7A0B;](.gitbook/assets/image.png)
+![&#x5B8C;&#x6574;&#x6D41;&#x7A0B;](../.gitbook/assets/image.png)
 
 一些环境
 
-![&#x751F;&#x4EA7;&#x73AF;&#x5883;&#x3001;BOE&#x4E0E;PPE&#x533A;&#x522B;](.gitbook/assets/image%20%281%29.png)
+![&#x751F;&#x4EA7;&#x73AF;&#x5883;&#x3001;BOE&#x4E0E;PPE&#x533A;&#x522B;](../.gitbook/assets/image%20%281%29.png)
 
 
 
