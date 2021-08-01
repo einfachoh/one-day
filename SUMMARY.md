@@ -13,7 +13,7 @@
 
 ## share with you <a id="life"></a>
 
-* [试试](life/shi-shi.md)
+* [周天在想什么](life/shi-shi.md)
 * [July](life/qi-yue/README.md)
   * [Buffer](life/qi-yue/buffer.md)
   * [词不达意](life/qi-yue/ci-bu-da-yi.md)
