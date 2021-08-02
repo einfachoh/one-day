@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [好笑](life/hao-xiao.md)
 * [周天在想什么](life/shi-shi.md)
 * [July](life/qi-yue/README.md)
   * [Buffer](life/qi-yue/buffer.md)
