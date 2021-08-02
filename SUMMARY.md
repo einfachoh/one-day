@@ -10,6 +10,7 @@
 * [产品学习](chan-pin-xue-xi/README.md)
   * [如何写好文档](chan-pin-xue-xi/ru-he-xie-hao-wen-dang.md)
   * [如何做好和服务端的交流](chan-pin-xue-xi/ru-he-zuo-hao-he-fu-wu-duan-de-jiao-liu.md)
+  * [基础知识累计](chan-pin-xue-xi/ji-chu-zhi-shi-lei-ji.md)
 
 ## share with you <a id="life"></a>
 
