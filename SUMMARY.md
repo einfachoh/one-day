@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [先等等](life/xian-deng-deng.md)
 * [半夜醒来](life/ban-ye-xing-lai.md)
 * [好笑](life/hao-xiao.md)
 * [周天在想什么](life/shi-shi.md)
