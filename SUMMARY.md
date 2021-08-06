@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [唯一不变的就是变化](life/wei-yi-bu-bian-de-jiu-shi-bian-hua.md)
 * [先等等](life/xian-deng-deng.md)
 * [半夜醒来](life/ban-ye-xing-lai.md)
 * [好笑](life/hao-xiao.md)
