@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [不确定里的确定](life/bu-que-ding-li-de-que-ding.md)
 * [立秋](life/li-qiu.md)
 * [表达](life/biao-da.md)
 * [唯一不变的就是变化](life/wei-yi-bu-bian-de-jiu-shi-bian-hua.md)
