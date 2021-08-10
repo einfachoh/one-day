@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [那些年，你做过的测试](life/na-xie-nian-ni-zuo-guo-de-ce-shi.md)
 * [不确定里的确定](life/bu-que-ding-li-de-que-ding.md)
 * [立秋](life/li-qiu.md)
 * [表达](life/biao-da.md)
