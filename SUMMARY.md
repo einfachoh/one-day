@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [有很多时候](life/you-hen-duo-shi-hou.md)
 * [同样的天气](life/tong-yang-de-tian-qi.md)
 * [good night](life/good-night.md)
 * [那些年，你做过的测试](life/na-xie-nian-ni-zuo-guo-de-ce-shi.md)
