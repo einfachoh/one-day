@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [你不知道的第n次偷拍](life/ni-bu-zhi-dao-de-dinci-tou-pai.md)
 * [有很多时候](life/you-hen-duo-shi-hou.md)
 * [同样的天气](life/tong-yang-de-tian-qi.md)
 * [good night](life/good-night.md)
