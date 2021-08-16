@@ -9,6 +9,6 @@ description: '2021.8.16  22:52'
 存了很久的照片，U盘丢了结果又找回来的照片，现在好像可以给你看看了
 
 {% hint style="info" %}
-链接：[https://pan.baidu.com/s/1xF4FpQdMD2aGpVC-tLIIyg](https://pan.baidu.com/s/1xF4FpQdMD2aGpVC-tLIIyg) 提取码：a2tu
+链接：[https://pan.baidu.com/s/1wn-ZfgXZYWqDJ8W6pknsPQ](https://pan.baidu.com/s/1wn-ZfgXZYWqDJ8W6pknsPQ) 提取码：vrd9
 {% endhint %}
 
