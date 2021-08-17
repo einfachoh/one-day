@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [熬夜这件事](life/ao-ye-zhe-jian-shi.md)
 * [你不知道的n+∞次cut](life/ni-bu-zhi-dao-de-dinci-tou-pai.md)
 * [有很多时候](life/you-hen-duo-shi-hou.md)
 * [同样的天气](life/tong-yang-de-tian-qi.md)
