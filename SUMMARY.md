@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [又是暴雨](life/you-shi-bao-yu.md)
 * [上班下班](life/shang-ban-xia-ban.md)
 * [熬夜这件事](life/ao-ye-zhe-jian-shi.md)
 * [你不知道的n+∞次cut](life/ni-bu-zhi-dao-de-dinci-tou-pai.md)
