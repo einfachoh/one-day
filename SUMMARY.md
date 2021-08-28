@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [一周](life/yi-zhou.md)
 * [又是暴雨](life/you-shi-bao-yu.md)
 * [上班下班](life/shang-ban-xia-ban.md)
 * [熬夜这件事](life/ao-ye-zhe-jian-shi.md)
