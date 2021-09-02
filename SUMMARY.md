@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [有一些感受](life/you-yi-xie-gan-shou.md)
 * [冷漠](life/leng-mo.md)
 * [一周](life/yi-zhou.md)
 * [又是暴雨](life/you-shi-bao-yu.md)
