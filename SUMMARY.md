@@ -14,6 +14,7 @@
 
 ## share with you <a id="life"></a>
 
+* [棱角的背后](life/leng-jiao-de-bei-hou.md)
 * [有一些感受](life/you-yi-xie-gan-shou.md)
 * [August](life/august/README.md)
   * [冷漠](life/august/leng-mo.md)
